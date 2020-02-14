@@ -1,0 +1,40 @@
+216355580 Maleka TJ
+27 January 2020 – 7 February 2020 Report
+
+
+27 January 2020:
+* Groups were formed between developers and business analysts to come up with a system to complete for the next 5 days.
+* We were combined with BA’s to brainstorm ideas. We ended up choosing a system called “Lost and Found” which could be used to retrieve lost items by uploading a picture of the item you found then describing it in a description form. The person who has lost an item can log their lost item in order to see if it might be on the database of lost items. 
+* During the day I was learning the basic commands of gitbash and working with github, also about mongodb.
+* Later on we presented the idea to our respective icep supervisors.
+28 January 2020:
+* Tasks were assigned on Trello by BA’s.
+* As developers we choose the activities to be completed in order to develop a full system.
+* I was doing the backend of the login page.
+* Started researching about node.js, mongodb, basically MEAN.
+29 January 2020
+* Was working on activating the database connection of the login page using node and express.
+* Throughout the day it was basically me researching the backend activation.
+* Created the code of the backend activation for database connection.
+* Went to register for IDC30BT.
+30 January 2020
+* Created the database data using xampp and myphpadmn.
+* Connected the backend login page to the login page that was created by Lethu, which was quite a challenge we had to work together trying to figure out the code in angular used to connect the database.
+31 January 2020
+On this day it mostly us finalizing every task that was needed to be completed. We meet with the BA’s to discuss further more the implications we had with their documentation. Tensions were high I wont lie cause of miscommunication. We called it a day very early cause there was technical implications.
+3 February 2020:
+* As a group we were in panic mode cause we were not yet done with the css of the whole project and somes connection to the frontend and backend were having problems.
+* Presentations started for the first batch of groups to present their systems.
+* After presentation we completed the system as a whole even though there was a few elements missing 
+4 February 2020
+* We presented our system to other groups and icep supervisors and got feedback 
+5 February 2020
+Researched about adobe xd and ionic 4
+Groups were created for a new system.
+I was assigned to be a frontend developer on a system called giftbox.
+Throughout the day we were brainstorming ideas with BA’s.
+6 February 2020
+I was attending the agile42 workshop throughout the day.
+7 February 2020
+Was researching about the system giftbox. It was a short day, knocked off early.
+
